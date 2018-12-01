@@ -21,11 +21,9 @@ ShallowWrapper {
         <h2>
           Gift Giver
         </h2>,
-        <div>
-          <ul
-            className="gift-list"
-          />
-        </div>,
+        <div
+          className="gift-list"
+        />,
         <Button
           active={false}
           block={false}
@@ -57,23 +55,11 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "host",
         "props": Object {
-          "children": <ul
-            className="gift-list"
-          />,
+          "children": Array [],
+          "className": "gift-list",
         },
         "ref": null,
-        "rendered": Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [],
-            "className": "gift-list",
-          },
-          "ref": null,
-          "rendered": Array [],
-          "type": "ul",
-        },
+        "rendered": Array [],
         "type": "div",
       },
       Object {
@@ -107,11 +93,9 @@ ShallowWrapper {
           <h2>
             Gift Giver
           </h2>,
-          <div>
-            <ul
-              className="gift-list"
-            />
-          </div>,
+          <div
+            className="gift-list"
+          />,
           <Button
             active={false}
             block={false}
@@ -143,23 +127,11 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": <ul
-              className="gift-list"
-            />,
+            "children": Array [],
+            "className": "gift-list",
           },
           "ref": null,
-          "rendered": Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": Array [],
-              "className": "gift-list",
-            },
-            "ref": null,
-            "rendered": Array [],
-            "type": "ul",
-          },
+          "rendered": Array [],
           "type": "div",
         },
         Object {

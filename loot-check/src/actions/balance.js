@@ -9,3 +9,8 @@ export const deposit = deposit => ({
   type: constants.DEPOSIT,
   deposit
 });
+
+export const withdraw = withdraw => ({
+  type: constants.WITHDRAW,
+  withdraw
+});
